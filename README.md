@@ -1,50 +1,27 @@
-# Welcome to your Expo app 👋
+# Kalpana Tracker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native mobile app (iOS) built to track spiritual remedies and astrology notes — deployed to a real device using EAS Build.
 
-## Get started
+## What it does
 
-1. Install dependencies
+- Log and track daily/weekly spiritual remedies
+- Organize notes from astrology consultations
+- Mark remedies as complete with date tracking
+- Clean mobile UI built with Expo
 
-   ```bash
-   npm install
-   ```
+## Tech Stack
 
-2. Start the app
+- **Framework:** React Native + Expo
+- **Build:** EAS Build (deployed to iPhone)
+- **Language:** TypeScript
 
-   ```bash
-   npx expo start
-   ```
+## Why I built this
 
-In the output, you'll find options to open the app in a
+Built as a personal utility app and as a hands-on project to learn React Native + EAS Build end to end — from code to deployed on a real device.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## Run locally
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
